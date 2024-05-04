@@ -1,7 +1,7 @@
 # Desafio_Simples_Dio
 Bootcamp DIO. 
 
-Desafio utilizando a linguagem python treinando lógica de programação.
+Desafio utilizando python treinando lógica de programação.
 
 
 Para executar o código:
